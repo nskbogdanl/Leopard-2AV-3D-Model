@@ -6,6 +6,11 @@ The model was created in КОМПАС-3D, an engineering-oriented CAD software r
 
 ---
 
+## 3D Model Viewer
+
+Live demo: [Open website](https://nskbogdanl.github.io/Leopard-2AV/)
+
+---
 
 ## Current Focus
 
@@ -35,9 +40,3 @@ As the project evolved, the scope increased, which led to inconsistencies betwee
 - This is due to:
   - High complexity of accurate reconstruction  
   - Limited availability of reliable reference blueprints  
-
----
-
-## 3D Model Viewer
-
-Live demo: [Open website](https://nskbogdanl.github.io/Leopard-2AV/)
