@@ -40,4 +40,4 @@ As the project evolved, the scope increased, which led to inconsistencies betwee
 
 ## 3D Model Viewer
 
-Live demo: [Open the web-site](https://nskbogdanl.github.io/Leopard-2AV/)
+Live demo: [Open website](https://nskbogdanl.github.io/Leopard-2AV/)
