@@ -13,8 +13,8 @@ Live demo: [Open website](https://nskbogdanl.github.io/Leopard-2AV-3D-Model/)
 
 ---
 
-## Wait a little to see a gif:
-<img src="./media.gif" width="300" alt="Leopard 2AV">
+## Preview:
+<img src="./media.gif" width="600" alt="Leopard 2AV">
 
 ---
 
