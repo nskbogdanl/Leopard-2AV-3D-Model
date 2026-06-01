@@ -6,9 +6,15 @@ The model was created in КОМПАС-3D, an engineering-oriented CAD software r
 
 ---
 
+
 ## 3D Model Viewer
 
 Live demo: [Open website](https://nskbogdanl.github.io/Leopard-2AV-3D-Model/)
+
+---
+
+## Wait a little to see a gif:
+<img src="./media.gif" width="300" alt="Leopard 2AV">
 
 ---
 
