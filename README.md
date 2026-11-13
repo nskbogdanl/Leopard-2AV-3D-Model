@@ -8,8 +8,8 @@ The model was created in КОМПАС-3D, an engineering-oriented CAD software r
 
 Live demo: [Open website](https://nskbogdanl.github.io/Leopard-2AV-3D-Model/)
 
-## Preview (a little bit outdated, I will add a better one soon):
-<img src="./media.gif" width="1000" alt="Leopard 2AV">
+## Preview:
+<img src="./leopard_2av_preview.webp" width="1000" alt="Leopard 2AV">
 
 ## Current Focus
 
